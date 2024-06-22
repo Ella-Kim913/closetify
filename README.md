@@ -7,7 +7,7 @@ This repository contains code for an interactive information web app, created fo
 
 Closetify is a web application that allows users to personalize their outfit data with various tags. Users can browse and filter outfits based on tags, build their outfits on a canvas, and save them to a database. The project leverages Firebase for real-time database management and cloud storage, as well as React for an interactive and responsive user experience.
 
-# Team members
+### Team members
 Ella Kim, Joy Li, June Mi Hong
 
 ## Main Tech Stacks
