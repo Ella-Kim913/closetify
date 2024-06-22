@@ -1,4 +1,4 @@
-# Closetify Project
+# Closetify
 
 **URL:** [Closetify](https://closetify-361f8.web.app/signin)
 
